@@ -250,11 +250,11 @@ infotxt.place(x=12, y=2)
 contact = ctk.CTkLabel(infotabs, text="Discord:")
 contact.place(x=12, y=25)
 
-copybox = ctk.CTkEntry(infotabs, placeholder_text="@********", fg_color="#15141c", width=120, height=20, justify="center", corner_radius=0)
+copybox = ctk.CTkEntry(infotabs, placeholder_text="@*******", fg_color="#15141c", width=120, height=20, justify="center", corner_radius=0)
 copybox.place(x=12, y=50)
 copybox.configure(state="disabled")
 
-copybtn = ctk.CTkButton(infotabs, text="Copy", fg_color="#15141c", hover_color="#0a090a", width=120, height=20, command=lambda: pyperclip.copy("@be.furry"), corner_radius=0)
+copybtn = ctk.CTkButton(infotabs, text="Copy", fg_color="#15141c", hover_color="#0a090a", width=120, height=20, command=lambda: pyperclip.copy("@befurry"), corner_radius=0)
 copybtn.place(x=12, y=75)
 
 # PC
