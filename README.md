@@ -6,7 +6,7 @@ Simple tool that will help fix Catlavan Client (Minecraft)
 
 ## Main Tab
 
-*	**Repair** will help you with any error
+*	Button: **Repair** will help you with any error
 
 ## Extra Tab
 
