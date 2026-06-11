@@ -10,16 +10,16 @@ Simple tool that will help fix Catlavan Client (Minecraft)
 
 ## Extra Tab
 
-* **Button -temp** will clear your temp folder (%LOCALAPPDATA%\Temp\* or %TEMP%\*)
-*	**Button -rewrite** will rewrite configuration file of Catlavan Client
-*	**Button -drivers** will download runtimes to your pc
-*	**Button -zapret** will stop zapret and WinDivert services
-*	**Button -killprogs** will close all programs in list (firefox.exe, browser.exe (Yandex), chrome.exe, discord.exe, etc.)
+* Button:**-temp** will clear your temp folder (%LOCALAPPDATA%\Temp\* or %TEMP%\*)
+*	Button:**-rewrite** will rewrite configuration file of Catlavan Client
+*	Button:**-drivers** will download runtimes to your pc
+*	Button:**-zapret** will stop zapret and WinDivert services
+*	Button:**-killprogs** will close all programs in list (firefox.exe, browser.exe (Yandex), chrome.exe, discord.exe, etc.)
 
 ## Extra Tab \ CMD Utils
 
-*	**Button sysinfo** will open cmd with command: "systeminfo"
-*	**Button ping** pings the site "catlavan.net" (Catlavan Client)
+*	Button:**sysinfo** will open cmd with command: "systeminfo"
+*	Button:**ping** pings the site "catlavan.net" (Catlavan Client)
 
 ## Info Tab
 
